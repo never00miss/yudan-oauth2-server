@@ -1,8 +1,8 @@
 <?php 
 
-namespace HelloWorld;
+namespace Never00miss\YudanOauth2Server;
 
-class SayHello
+class YudanOauth2Server
 {
     public static function world()
     {

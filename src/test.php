@@ -1,8 +1,8 @@
 <?php 
 
-namespace Never00miss\YudanOauth2Server;
+namespace Never00miss\test;
 
-class YudanOauth2Server
+class test
 {
     public static function world()
     {

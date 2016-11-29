@@ -1,6 +1,6 @@
 <?php 
 
-namespace Never00miss\test;
+namespace Never00miss\YudanOauthServer;
 
 class test
 {

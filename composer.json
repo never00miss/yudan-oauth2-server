@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Never00miss\\YudanOauth2\\": "src"
+            "Never00miss\\YudanOauth2Server\\": "src"
         }
     }
 
